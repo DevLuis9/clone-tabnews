@@ -1,0 +1,21 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "implementação tab news pro curso.dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevLuis9/clone-tabnews.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/DevLuis9/clone-tabnews/issues"
+  },
+  "homepage": "https://github.com/DevLuis9/clone-tabnews#readme"
+}
